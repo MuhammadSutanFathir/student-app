@@ -243,14 +243,4 @@ test/
 
 ---
 
-## 14. Catatan
 
-* API Login hanya simulasi (Dummy API)
-* FCM dapat menggunakan mode simulasi / Firebase Console
-* Aplikasi mendukung penggunaan offline
-
----
-
-## 15. Author
-
-Dikembangkan menggunakan Flutter dengan pendekatan Clean Architecture & BLoC
