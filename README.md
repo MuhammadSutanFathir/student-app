@@ -243,4 +243,18 @@ test/
 
 ---
 
+## 14. Link Aplikasi
+
+  ```
+  https://drive.google.com/file/d/18oZKOiP-xY9ne3_Zm2u3FYiWhw-zBLYH/view?usp=drive_link
+  ```
+
+---
+
+## 15. Link Demo Aplikasi
+
+  ```
+  https://youtu.be/4tZ3dQfQetw
+  ```
+
 
